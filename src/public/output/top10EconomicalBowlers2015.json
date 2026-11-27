@@ -1,0 +1,72 @@
+[
+  {
+    "bowler": "RN ten Doeschate",
+    "runsConceded": 4,
+    "legalBalls": 6,
+    "overs": 1,
+    "economy": 4
+  },
+  {
+    "bowler": "J Yadav",
+    "runsConceded": 29,
+    "legalBalls": 42,
+    "overs": 7,
+    "economy": 4.14
+  },
+  {
+    "bowler": "V Kohli",
+    "runsConceded": 10,
+    "legalBalls": 11,
+    "overs": 1.83,
+    "economy": 5.45
+  },
+  {
+    "bowler": "R Ashwin",
+    "runsConceded": 228,
+    "legalBalls": 234,
+    "overs": 39,
+    "economy": 5.85
+  },
+  {
+    "bowler": "S Nadeem",
+    "runsConceded": 43,
+    "legalBalls": 42,
+    "overs": 7,
+    "economy": 6.14
+  },
+  {
+    "bowler": "Parvez Rasool",
+    "runsConceded": 31,
+    "legalBalls": 30,
+    "overs": 5,
+    "economy": 6.2
+  },
+  {
+    "bowler": "MC Henriques",
+    "runsConceded": 158,
+    "legalBalls": 150,
+    "overs": 25,
+    "economy": 6.32
+  },
+  {
+    "bowler": "Z Khan",
+    "runsConceded": 156,
+    "legalBalls": 145,
+    "overs": 24.17,
+    "economy": 6.46
+  },
+  {
+    "bowler": "MA Starc",
+    "runsConceded": 291,
+    "legalBalls": 258,
+    "overs": 43,
+    "economy": 6.77
+  },
+  {
+    "bowler": "GB Hogg",
+    "runsConceded": 144,
+    "legalBalls": 126,
+    "overs": 21,
+    "economy": 6.86
+  }
+]
